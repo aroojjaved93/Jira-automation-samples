@@ -46,7 +46,6 @@ MIT License — open to use and extend freely.
 - Tech support & NOC engineers  
 - DevOps teams using JIRA  
 - Project managers looking to reduce SLA risk  
-- Professionals compiling Global Talent Visa evidence (innovation, impact, documentation)
 
 ---
 
