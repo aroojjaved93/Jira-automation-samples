@@ -4,7 +4,7 @@
 [![JIRA Automation](https://img.shields.io/badge/JIRA-Automation-blue)](https://www.atlassian.com/software/jira)
 
 Boost your support team's productivity with smart, no-code JIRA automation.  
-This repository demonstrates **real-world impact and innovation**, curated as part of a Global Talent Visa portfolio. All automations use **native JIRA features**, no plugins or paid tools.
+This repository demonstrates all automations use **native JIRA features**, no plugins or paid tools.
 
 ---
 
@@ -51,7 +51,7 @@ MIT License — open to use and extend freely.
 
 ## 📎 Related Articles
 
-- ✍️ [How I Automated JIRA Without Plugins](https://your-hashnode-link.com)
+- ✍️ [How I Automated JIRA Without Plugins]([https://your-hashnode-link.com](https://aroojtech.hashnode.dev/from-chaos-to-control-how-i-automated-jira-workflows-for-a-smarter-support-system))
 - 📄 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
 
 ---
