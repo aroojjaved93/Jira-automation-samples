@@ -51,7 +51,7 @@ MIT License — open to use and extend freely.
 
 ## 📎 Related Articles
 
-- ✍️ [How I Automated JIRA Without Plugins]([https://your-hashnode-link.com](https://aroojtech.hashnode.dev/from-chaos-to-control-how-i-automated-jira-workflows-for-a-smarter-support-system))
+- ✍️ [How I Automated JIRA Without Plugins](https://aroojtech.hashnode.dev/from-chaos-to-control-how-i-automated-jira-workflows-for-a-smarter-support-system)
 - 📄 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
 
 ---
@@ -60,7 +60,7 @@ MIT License — open to use and extend freely.
 
 **Arooj Javed**  
 Support Engineer | Automation Enthusiast | Workflow Optimizer  
-🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://your-hashnode-link.com)
+🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://hashnode.com/@aroojjaved93)
 
 ---
 
