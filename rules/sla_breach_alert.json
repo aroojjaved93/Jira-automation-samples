@@ -1,0 +1,1 @@
+{'name': 'SLA Breach Alert', 'trigger': 'Status = In Progress for > 8 hours', 'action': 'Send alert to manager and mark urgent'}

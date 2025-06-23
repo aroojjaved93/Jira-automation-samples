@@ -1,0 +1,1 @@
+{'name': 'Notify on Blocker Priority', 'trigger': 'Issue Created or Priority Changed', 'condition': 'Priority = Blocker', 'action': 'Send Slack alert to escalation channel and assign to lead'}

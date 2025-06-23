@@ -1,1 +1,1 @@
-
+{'name': 'Assign by Support Level', 'trigger': 'Issue Created', 'condition': 'Support Level = L2', 'action': 'Assign to L2 Engineer Group'}

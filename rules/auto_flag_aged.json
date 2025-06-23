@@ -1,0 +1,1 @@
+{'name': 'Auto Flag Aged Tickets', 'trigger': 'Scheduled - every 2 hours', 'condition': 'Status = Open AND Created > 4 hours ago', 'action': "Add label 'priority-review' and notify team"}

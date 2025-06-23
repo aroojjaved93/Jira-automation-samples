@@ -1,0 +1,1 @@
+{'name': 'Auto Transition on Comment', 'trigger': "Comment contains 'fix deployed' or 'ready for QA'", 'action': 'Transition to Done or QA Review'}

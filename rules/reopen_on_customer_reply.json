@@ -1,0 +1,1 @@
+{'name': 'Reopen on Customer Reply', 'trigger': 'Comment Added by Reporter', 'condition': 'Status = Resolved or Closed', 'action': 'Transition to Open and notify assigned agent'}

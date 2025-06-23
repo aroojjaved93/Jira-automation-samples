@@ -1,0 +1,1 @@
+{'name': 'Auto Assign Bug Tickets', 'trigger': 'Issue Created', 'condition': 'Issue Category = Bug', 'action': 'Assign to Backend Support'}
