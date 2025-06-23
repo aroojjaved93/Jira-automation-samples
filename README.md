@@ -68,4 +68,4 @@ Support Engineer | Automation Enthusiast | Workflow Optimizer
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to fork, use, or adapt for your technical teams or visa applications.
+Feel free to fork, use, or adapt for your technical teams.
