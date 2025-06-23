@@ -2,7 +2,6 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![JIRA Automation](https://img.shields.io/badge/JIRA-Automation-blue)](https://www.atlassian.com/software/jira)
-[![Made for UK Global Talent](https://img.shields.io/badge/Visa-Global_Talent_UK-purple)](https://www.gov.uk/global-talent)
 
 Boost your support team's productivity with smart, no-code JIRA automation.  
 This repository demonstrates **real-world impact and innovation**, curated as part of a Global Talent Visa portfolio. All automations use **native JIRA features**, no plugins or paid tools.
