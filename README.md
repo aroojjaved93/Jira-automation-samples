@@ -37,7 +37,26 @@ MIT License — open to use and extend freely.
 
 ## 📸 Visual Preview
 
-![Sample](screenshots/sla_tracking_dashboard.png)
+### 🔧 Auto Assignment Rule
+![Auto Assign Rule](screenshots/auto_assign_rule.png)
+
+### 📊 Jira Dashboard Sample
+![Jira Dashboard Sample](screenshots/jira_dashboard_sample.png)
+
+### 🔔 Priority Notification Flow
+![Priority Notification Flow](screenshots/priority_notification_flow.png)
+
+### 💬 Reopen on Reply
+![Reopen on Reply](screenshots/reopen_on_reply.png)
+
+### ⏱️ SLA Tracking Dashboard
+![SLA Tracking Dashboard](screenshots/sla_tracking_dashboard.png)
+
+### 🎯 Support Level Assignment
+![Support Level Assignment](screenshots/support_level_assignment.png)
+
+### 🔁 Ticket Transition Flow
+![Ticket Transition Flow](screenshots/ticket_transition_flow.png)
 
 ---
 
