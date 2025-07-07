@@ -68,10 +68,21 @@ MIT License — open to use and extend freely.
 
 ---
 
-## 📎 Related Articles
+## 📰 Related Articles
 
-- ✍️ [How I Automated JIRA Without Plugins](https://aroojtech.hashnode.dev/from-chaos-to-control-how-i-automated-jira-workflows-for-a-smarter-support-system)
-- 📄 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
+📘 **Dev.to Post**  
+🔗 [From Chaos to Clarity – My Lightweight JIRA Automation Framework (No Plugins, Just Logic)](https://dev.to/aroojjaved93/from-chaos-to-clarity-my-lightweight-jira-automation-framework-no-plugins-just-logic-2deg)
+
+📘 **Medium Article**  
+🔗 [Boosting Productivity with No-Code JIRA Automation – Real-World Samples for Every Team](https://aroojjaved93.medium.com/boosting-productivity-with-no-code-jira-automation-real-world-samples-for-every-team-25c7a126cdde)
+
+📘 **Hashnode Blog**  
+🔗 [How I Automated JIRA Without Plugins](https://aroojtech.hashnode.dev/from-chaos-to-control-how-i-automated-jira-workflows-for-a-smarter-support-system)
+
+📘 **Zenodo Journal**  
+🔗 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
+
+
 
 ---
 
