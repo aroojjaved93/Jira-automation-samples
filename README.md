@@ -24,6 +24,20 @@ MIT License — open to use and extend freely.
 
 ---
 
+## 📂 Internal Project Background
+
+This JIRA Automation framework was developed during my time at **Fizyr (Netherlands)** as an internal support optimization initiative:
+
+- ✅ **Company:** *Fizyr, Netherlands*  
+- 🧠 **Goal:** Improve ticket workflows and team response time through logic-based JIRA automation — without using paid plugins  
+- 🛠️ **Scope:** Developed rule-based flows, reusable templates, and process documentation tailored for support and engineering teams
+
+It is now open-sourced for other teams facing similar JIRA inefficiencies and looking for plug-and-play solutions.
+
+
+---
+
+
 ## 🚀 Key Automations
 
 - 🔁 Auto-assign tickets by category or support level
